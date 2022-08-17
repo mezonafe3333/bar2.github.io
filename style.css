@@ -134,29 +134,29 @@ body
         flex-direction: column;
        align-items: center;
         margin: auto;
-        margin-top: 15rem;
+        margin-top: 13rem;
         width: 80%;
        
     }
     .sec
     {
-        width: 26rem;
+        width: 25rem;
     }
     .bar
     {
-        width:20rem ;
+        width:19rem ;
     }
     .b1
     {
-        width: 16rem;
+        width: 15rem;
     }
     .dot
     {
-        left: 15rem;
+        left: 14rem;
     }
     .sec p
     {
-        padding-right: 2rem;
+        padding-right: 1rem;
     }
 
 }
